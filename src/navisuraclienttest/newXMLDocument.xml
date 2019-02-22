@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<command>
+    <cmd>TargetCmd</cmd>
+    <target>
+        <navigationData xsi:type="bcncar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <id>0</id>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <categoryOfMark>0</categoryOfMark>
+        </navigationData>
+        <latitude>48.313</latitude>
+        <longitude>-4.6214</longitude>
+        <distance>1000.0</distance>
+        <azimuth>0.0</azimuth>
+        <id>0</id>
+    </target>
+</command>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<command>
+    <cmd>TargetCmd</cmd>
+    <target>
+        <bcncar>
+            <id>0</id>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <categoryOfMark>0</categoryOfMark>
+        </bcncar>
+        <latitude>48.313</latitude>
+        <longitude>-4.6214</longitude>
+        <distance>1000.0</distance>
+        <azimuth>0.0</azimuth>
+        <id>0</id>
+    </target>
+</command>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<command>
+    <cmd>TargetCmd</cmd>
+    <target>
+        <bcncar>
+            <id>0</id>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <categoryOfMark>0</categoryOfMark>
+        </bcncar>
+        <latitude>48.313</latitude>
+        <longitude>-4.6214</longitude>
+        <distance>1000.0</distance>
+        <azimuth>0.0</azimuth>
+        <id>0</id>
+    </target>
+</command>
+command : Command{cmd=TargetCmd, navigationData=bzh.terrevirtuelle.navisu.domain.navigation.model.Target@4f9d372b, arg=null}
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><command>
+    <cmd>TargetCmd</cmd>
+    <target>
+        <bcncar>
+            <id>0</id>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <categoryOfMark>0</categoryOfMark>
+        </bcncar>
+        <latitude>48.313</latitude>
+        <longitude>-4.6214</longitude>
+        <distance>1000.0</distance>
+        <azimuth>0.0</azimuth>
+        <id>0</id>
+    </target>
+</command>
